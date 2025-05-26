@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ML Project",
+			"path": "."
+		},
+		{
+			"name": "extracted_data",
+			"path": "../../../../../Desktop/extracted_data"
+		}
+	],
+	"settings": {}
+}
